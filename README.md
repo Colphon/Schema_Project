@@ -6,3 +6,9 @@ Program supports schema fields of type primitive/wrapper integer, double, boolea
 Domain base classes cannot be abstract or interface classes, have more than one constructor, or have a constructor that relies on schema-mutuable field values during construction. 
 
 Features include creating schemas defined from base class field lists. Creating objects from user-made schemas which can be related to other user-made schema objects via singular references or collections (ArrayLists) of references. Displaying schemas and their associated objects. 
+
+Example Use Case:
+- Define schema: Student(name, courses)
+- Create object: Alice
+- Link Alice to multiple Course objects
+- System builds and visualizes relationships dynamically
