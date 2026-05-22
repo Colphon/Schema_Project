@@ -14,4 +14,4 @@ Example Use Case:
 - System builds and visualizes relationships dynamically
 
 For a detailed walkthrough with screenshots, see:
-Schema Project Overview & Usage.docx
+overview-and-usage.docx
