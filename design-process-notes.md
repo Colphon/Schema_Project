@@ -107,12 +107,10 @@ After implementing core functionality, AI was used to:
 
 ---
 
-## Key Takeaway
-
 AI served as a tool for:
 
 - accelerating learning of unfamiliar concepts (reflection, generics)
 - validating ideas during development
 - identifying edge cases and constraints
 
-However, all architectural decisions, tradeoffs, and implementations were iteratively developed and refined through independent reasoning and problem-solving.
+Meanwhile, all architectural decisions, tradeoffs, and implementations were iteratively developed and refined through independent reasoning and problem-solving.
