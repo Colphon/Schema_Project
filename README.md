@@ -12,3 +12,6 @@ Example Use Case:
 - Create object: Alice
 - Link Alice to multiple Course objects
 - System builds and visualizes relationships dynamically
+
+For a detailed walkthrough with screenshots, see:
+Schema Project Overview & Usage.docx
